@@ -1,0 +1,18 @@
+.boxes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+  }
+  
+  button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  

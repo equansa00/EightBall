@@ -1,0 +1,5 @@
+No specific styles needed for App.js
+body {
+    background-color: rgb(168, 164, 164); /* Replace #yourColor with the color you want */
+    color: white; /* Replace #yourTextColor with the color you want for the text */
+  }

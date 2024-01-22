@@ -1,0 +1,18 @@
+.eight-ball {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+    margin: 20px auto;
+  }
+  
+  .eight-ball p {
+    text-align: center;
+    padding: 10px;
+  }
+  
